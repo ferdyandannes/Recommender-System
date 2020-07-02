@@ -1,2 +1,2 @@
 # Recommender-System
-Recommender system using cosine similarity
+Recommender system using NMF & cosine similarity
